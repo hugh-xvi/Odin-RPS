@@ -31,7 +31,7 @@ function playRound(playerSelection, computerSelection) {
         roundWinner="Computer has won 5 times!"
                
   alert(roundWinner);
-  updateScore()
+  updateScore();
         
 }
 
